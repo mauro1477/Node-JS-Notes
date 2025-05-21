@@ -14,3 +14,8 @@ globel is like window in JS
 
 User "node" to run files
 
+2. Global Node 
+process.stdout.write
+
+asynchronously prompt for input data
+process.stdin.on
