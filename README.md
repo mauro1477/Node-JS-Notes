@@ -19,3 +19,6 @@ process.stdout.write
 
 asynchronously prompt for input data
 process.stdin.on
+
+-Create time out program
+setTimeout
