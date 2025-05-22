@@ -22,3 +22,5 @@ process.stdin.on
 
 -Create time out program
 setTimeout
+
+Using 'process.stdin.on('data', ...)' allows the Node.js application to listen for incoming data events and process the input asynchronously, thus keeping the process running and able to accept additional inputs.
